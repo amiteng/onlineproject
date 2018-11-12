@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45870" started-at="2018-11-12T08:10:46Z" finished-at="2018-11-12T08:11:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45870" started-at="2018-11-12T08:10:46Z" finished-at="2018-11-12T08:11:32Z">
+      <class name="TestProject.OnlineProject.Cart">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestProject.OnlineProject.Cart@e25b2fe]" name="initialize" is-config="true" duration-ms="10544" started-at="2018-11-12T08:10:46Z" finished-at="2018-11-12T08:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="finalcheckout()[pri:5, instance:TestProject.OnlineProject.Cart@e25b2fe]" name="finalcheckout" duration-ms="33804" started-at="2018-11-12T08:10:57Z" finished-at="2018-11-12T08:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalcheckout -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TestProject.OnlineProject.Cart@e25b2fe]" name="end" is-config="true" duration-ms="1486" started-at="2018-11-12T08:11:31Z" finished-at="2018-11-12T08:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- TestProject.OnlineProject.Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

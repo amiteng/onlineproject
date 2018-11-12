@@ -23,7 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="selenium-java-3.141.0.zip"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
